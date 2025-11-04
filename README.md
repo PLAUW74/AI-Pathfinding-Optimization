@@ -1,3 +1,2 @@
-Open AI Pathfinding.exe,
-Code is in Source > Student
+Code is in Source > Student > Project_2
 
